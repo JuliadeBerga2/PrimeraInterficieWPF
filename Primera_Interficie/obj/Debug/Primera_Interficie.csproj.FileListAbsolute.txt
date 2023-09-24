@@ -1,0 +1,16 @@
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\bin\Debug\Primera_Interficie.exe.config
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\bin\Debug\Primera_Interficie.exe
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\bin\Debug\Primera_Interficie.pdb
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.csproj.AssemblyReference.cache
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.csproj.SuggestedBindingRedirects.cache
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\MainWindow.g.cs
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\App.g.cs
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie_MarkupCompile.cache
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie_MarkupCompile.lref
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\MainWindow.baml
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.g.resources
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.Properties.Resources.resources
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.csproj.GenerateResource.cache
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.csproj.CoreCompileInputs.cache
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.exe
+D:\M07 Interficies\PractiquesJulia\Exercici02\Primera_Interficie\Primera_Interficie\obj\Debug\Primera_Interficie.pdb
